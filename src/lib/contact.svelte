@@ -20,7 +20,7 @@
       <p class="text-5xl font-black text-center">
         Got project in <span class="text-blue-500">mind</span> ?
       </p>
-      <img src={project} alt="project" class="h-96 mx-auto" />
+      <img src={project} alt="project" class="max-h-96 mx-auto" />
       <div class="text-xs italic text-slate-300 text-center">
         <a
           href="https://www.freepik.com/free-vector/app-development-concept-illustration_12780654.htm#query=app%20development&position=1&from_view=search&track=ais&uuid=d4087ec9-db5d-48b5-90f5-b5f5b87387cc"
